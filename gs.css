@@ -9,3 +9,6 @@
     font-family:'Courier New', Courier, monospace;
     background-color:antiquewhite;
   }
+   .direction:hover{
+    background-color:pink;
+   }
