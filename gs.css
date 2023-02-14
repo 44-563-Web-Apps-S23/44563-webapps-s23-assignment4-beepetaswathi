@@ -35,4 +35,14 @@
     tr:nth-child(even){
     background-color:gold;
 
-   }
+    }
+     .OHANO:hover{
+        text-shadow: 3px 3px red;
+    }
+     .NIJO:hover{
+        text-shadow: 3px 3px greenyellow;
+    }
+     .ZAMA:hover{
+        text-shadow: 3px 3px blue;
+     }
+    
