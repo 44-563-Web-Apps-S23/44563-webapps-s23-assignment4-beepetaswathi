@@ -19,5 +19,20 @@
     color:aqua;
    }
    table, th, td{
-    border: 1px solid;text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+   }
+    tr:nth-child(even){
+    background-color:gold;
+
    }
