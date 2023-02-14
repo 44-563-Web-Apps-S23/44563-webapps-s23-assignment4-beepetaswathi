@@ -1,5 +1,10 @@
  .speech{
-    color:pink;
+    color:black;
     size: 18px;
     font-family: Arial, Helvetica, sans-serif;
  }
+  .direction{
+    color:black;
+    size: 20px;
+    font-family:'Courier New', Courier, monospace;
+  }
