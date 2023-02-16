@@ -50,22 +50,23 @@
      }
      
     ul.navbar-horizontal {
-         /* remove these */
+         
          list-style-type: none;
          margin: 0;
          padding: 0;
         }
          ul.navbar-horizontal li { 
+
          float:left;
-        /* line up horizontally */
-        color:red;
+         color:red;
          background-color:rgb(43, 198, 226);
          }
+
         ul.navbar-horizontal a {
         display:block;
         padding:10px
          }
-        /* on hover change the link color*/
+        
         ul.navbar-horizontal a:hover{
         background-color: pink;
         color:goldenrod;
