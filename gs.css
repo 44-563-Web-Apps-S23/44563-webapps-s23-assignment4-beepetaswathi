@@ -48,29 +48,22 @@
      .ZAMA:hover{
         text-shadow: 3px 3px blue;
      }
-     
-    ul.navbar-horizontal {
-         
+     ul.navbar-horizontal{
          list-style-type: none;
-         margin: 0;
-         padding: 0;
+         margin:0;
+         padding:0;
+          overflow: hidden;
+           background-color: orangered;
+           display: flex;
         }
-         ul.navbar-horizontal li { 
-
-         float:left;
-         color:red;
-         background-color:rgb(43, 198, 226);
-         }
-
-        ul.navbar-horizontal a {
-        display:block;
-        padding:10px
-         }
-        
-        ul.navbar-horizontal a:hover{
-        background-color: pink;
-        color:goldenrod;
-         }
+     .material-symbols-outlined {
+       font-variation-settings:
+       'FILL' 0,
+       'wght' 400,
+       'GRAD' 0,
+       'opsz' 48
+     }
+     
 
 
     
